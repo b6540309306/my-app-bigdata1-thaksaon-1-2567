@@ -62,6 +62,9 @@ export default function Navbar() {
               <a href="/ai">AI ตรวจวินิจฉัยโรค</a>
             </li>
             <li>
+              <a href="/evaluation">การประเมินนโยบายสาธารณะ</a>
+            </li>
+            <li>
               <a>ChatGPT</a>
             </li>
            
